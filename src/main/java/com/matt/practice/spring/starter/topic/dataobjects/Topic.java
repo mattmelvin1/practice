@@ -1,4 +1,4 @@
-package com.matt.prctice.spring.starter.topic.dataobjects;
+package com.matt.practice.spring.starter.topic.dataobjects;
 
 public class Topic {
 

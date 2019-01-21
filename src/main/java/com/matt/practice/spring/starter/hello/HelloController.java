@@ -1,4 +1,4 @@
-package com.matt.prctice.spring.starter.hello;
+package com.matt.practice.spring.starter.hello;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

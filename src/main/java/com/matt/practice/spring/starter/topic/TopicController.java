@@ -1,4 +1,4 @@
-package com.matt.prctice.spring.starter.topic;
+package com.matt.practice.spring.starter.topic;
 
 import java.util.Arrays;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.matt.prctice.spring.starter.topic.dataobjects.Topic;
+import com.matt.practice.spring.starter.topic.dataobjects.Topic;
 
 @RestController
 public class TopicController {
